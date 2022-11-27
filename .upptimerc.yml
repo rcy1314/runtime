@@ -26,10 +26,10 @@ status-website:
   introTitle: "欢迎你的访问,有问题可以反馈给我"
   introMessage: 这里是一些站点服务的运行状况
   navbar:
-    - title: Status
+    - title: 运行状况
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: 主页
+      href: https://www.noisework.cn
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
