@@ -31,12 +31,6 @@ status-website:
     - title: 主页
       href: https://www.noisework.cn
       
-  status-website:
-  theme: dark
-  
-  status-website:
-  name: Noise的站点运行监控
-  logoUrl: https://cdn.staticaly.com/gh/rcy1314/tuchuang@main/NV/下载-6).4x3uticipew0.jpg
   
   
 
