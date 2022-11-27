@@ -19,11 +19,11 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: rcy1314.github.io/runtime/
-  # baseUrl: /your-repo-name
+  #cname: rcy1314.github.io/runtime/
+  baseUrl: /runtime
   logoUrl: https://cdn.staticaly.com/gh/rcy1314/tuchuang@main/NV/下载-6).4x3uticipew0.jpg
   name: Noise的站点运行监控
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "欢迎你的访问"
   introMessage: 这里是一些站点服务的运行状况
   navbar:
     - title: Status
