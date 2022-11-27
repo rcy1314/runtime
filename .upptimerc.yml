@@ -32,22 +32,20 @@ status-website:
       href: https://www.noisework.cn
       
   status-website:
-  theme: night
+  theme: dark
   
   status-website:
   name: Noise的站点运行监控
   logoUrl: https://cdn.staticaly.com/gh/rcy1314/tuchuang@main/NV/下载-6).4x3uticipew0.jpg
   
   status-website:
-  js: "<script>
+  js: "
 <span id="runtime_span"></span>
 <script type="text/javascript">function show_runtime(){window.setTimeout("show_runtime()",1000);X=new
-Date("18/02/2022 5:22:00");
+Date("18/11/2022 5:22:00");
 Y=new Date();T=(Y.getTime()-X.getTime());M=246060*1000;
 a=T/M;A=Math.floor(a);b=(a-A)*24;B=Math.floor(b);c=(b-B)*60;C=Math.floor((b-B)*60);D=Math.floor((c-C)*60);
-runtime_span.innerHTML="本站勉强运行: "+A+"天"+B+"小时"+C+"分"+D+"秒"}show_runtime();</script>
-</center>
- </script>" 
+runtime_span.innerHTML="本站勉强运行: "+A+"天"+B+"小时"+C+"分"+D+"秒"}show_runtime();" 
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
