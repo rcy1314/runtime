@@ -6,16 +6,18 @@
     "slug": "noise",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1598,
-    "timeDay": 1709,
-    "timeWeek": 1475,
-    "timeMonth": 1598,
-    "timeYear": 1598,
-    "dailyMinutesDown": {}
+    "time": 1605,
+    "timeDay": 1783,
+    "timeWeek": 1494,
+    "timeMonth": 1605,
+    "timeYear": 1605,
+    "dailyMinutesDown": {
+      "2022-12-07": 0
+    }
   },
   {
     "name": "Noise社区站",
@@ -24,16 +26,18 @@
     "slug": "noise",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1598,
-    "timeDay": 1709,
-    "timeWeek": 1475,
-    "timeMonth": 1598,
-    "timeYear": 1598,
-    "dailyMinutesDown": {}
+    "time": 1605,
+    "timeDay": 1783,
+    "timeWeek": 1494,
+    "timeMonth": 1605,
+    "timeYear": 1605,
+    "dailyMinutesDown": {
+      "2022-12-07": 0
+    }
   },
   {
     "name": "Noise导航站",
@@ -42,16 +46,18 @@
     "slug": "noise",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1598,
-    "timeDay": 1709,
-    "timeWeek": 1475,
-    "timeMonth": 1598,
-    "timeYear": 1598,
-    "dailyMinutesDown": {}
+    "time": 1605,
+    "timeDay": 1783,
+    "timeWeek": 1494,
+    "timeMonth": 1605,
+    "timeYear": 1605,
+    "dailyMinutesDown": {
+      "2022-12-07": 0
+    }
   },
   {
     "name": "频道推送器",
@@ -60,7 +66,7 @@
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +75,9 @@
     "timeWeek": 965,
     "timeMonth": 1053,
     "timeYear": 1053,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-07": 0
+    }
   },
   {
     "name": "Noise资源库",
@@ -78,16 +86,18 @@
     "slug": "noise",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1598,
-    "timeDay": 1709,
-    "timeWeek": 1475,
-    "timeMonth": 1598,
-    "timeYear": 1598,
-    "dailyMinutesDown": {}
+    "time": 1605,
+    "timeDay": 1783,
+    "timeWeek": 1494,
+    "timeMonth": 1605,
+    "timeYear": 1605,
+    "dailyMinutesDown": {
+      "2022-12-07": 0
+    }
   },
   {
     "name": "Noise知识效率集",
@@ -96,15 +106,17 @@
     "slug": "noise",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1598,
-    "timeDay": 1709,
-    "timeWeek": 1475,
-    "timeMonth": 1598,
-    "timeYear": 1598,
-    "dailyMinutesDown": {}
+    "time": 1605,
+    "timeDay": 1783,
+    "timeWeek": 1494,
+    "timeMonth": 1605,
+    "timeYear": 1605,
+    "dailyMinutesDown": {
+      "2022-12-07": 0
+    }
   }
 ]
