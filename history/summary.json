@@ -4,63 +4,69 @@
     "url": "https://noisevip.cn",
     "icon": "https://icons.duckduckgo.com/ip3/noisevip.cn.ico",
     "slug": "noise",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1611,
-    "timeDay": 1602,
-    "timeWeek": 1507,
-    "timeMonth": 1611,
-    "timeYear": 1611,
-    "dailyMinutesDown": {}
+    "time": 1604,
+    "timeDay": 1451,
+    "timeWeek": 1485,
+    "timeMonth": 1604,
+    "timeYear": 1604,
+    "dailyMinutesDown": {
+      "2022-12-17": 0
+    }
   },
   {
     "name": "Noise社区站",
     "url": "https://www.efficiency.vip",
     "icon": "https://icons.duckduckgo.com/ip3/www.efficiency.vip.ico",
     "slug": "noise",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1611,
-    "timeDay": 1602,
-    "timeWeek": 1507,
-    "timeMonth": 1611,
-    "timeYear": 1611,
-    "dailyMinutesDown": {}
+    "time": 1604,
+    "timeDay": 1451,
+    "timeWeek": 1485,
+    "timeMonth": 1604,
+    "timeYear": 1604,
+    "dailyMinutesDown": {
+      "2022-12-17": 0
+    }
   },
   {
     "name": "Noise导航站",
     "url": "https://www.noisedh.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.noisedh.cn.ico",
     "slug": "noise",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1611,
-    "timeDay": 1602,
-    "timeWeek": 1507,
-    "timeMonth": 1611,
-    "timeYear": 1611,
-    "dailyMinutesDown": {}
+    "time": 1604,
+    "timeDay": 1451,
+    "timeWeek": 1485,
+    "timeMonth": 1604,
+    "timeYear": 1604,
+    "dailyMinutesDown": {
+      "2022-12-17": 0
+    }
   },
   {
     "name": "频道推送器",
     "url": "https://www.efficiencynoise.top",
     "icon": "https://icons.duckduckgo.com/ip3/www.efficiencynoise.top.ico",
     "slug": "",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,42 +75,48 @@
     "timeWeek": 972,
     "timeMonth": 1031,
     "timeYear": 1031,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-17": 0
+    }
   },
   {
     "name": "Noise资源库",
     "url": "https://www.noiseyp.top",
     "icon": "https://icons.duckduckgo.com/ip3/www.noiseyp.top.ico",
     "slug": "noise",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1611,
-    "timeDay": 1602,
-    "timeWeek": 1507,
-    "timeMonth": 1611,
-    "timeYear": 1611,
-    "dailyMinutesDown": {}
+    "time": 1604,
+    "timeDay": 1451,
+    "timeWeek": 1485,
+    "timeMonth": 1604,
+    "timeYear": 1604,
+    "dailyMinutesDown": {
+      "2022-12-17": 0
+    }
   },
   {
     "name": "Noise知识效率集",
     "url": "https://www.noisesite.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.noisesite.cn.ico",
     "slug": "noise",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1611,
-    "timeDay": 1602,
-    "timeWeek": 1507,
-    "timeMonth": 1611,
-    "timeYear": 1611,
-    "dailyMinutesDown": {}
+    "time": 1604,
+    "timeDay": 1451,
+    "timeWeek": 1485,
+    "timeMonth": 1604,
+    "timeYear": 1604,
+    "dailyMinutesDown": {
+      "2022-12-17": 0
+    }
   }
 ]
